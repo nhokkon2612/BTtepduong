@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1495ff18-6ce0-4815-99a6-d0e4540fab3c" name="Default Changelist" comment="" />
+    <list default="true" id="1495ff18-6ce0-4815-99a6-d0e4540fab3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mindmap 2 tuần học đầu.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trần Duy Ngọc C1220I1.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +24,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/BaiTapTetDuong" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -33,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609705326412</updated>
       <workItem from="1609705327559" duration="488000" />
+      <workItem from="1609723257212" duration="836000" />
     </task>
     <servers />
   </component>
@@ -49,5 +54,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
